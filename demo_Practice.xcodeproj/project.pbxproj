@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		171877D82AD179E20045E5D6 /* demo_PracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171877D72AD179E20045E5D6 /* demo_PracticeApp.swift */; };
-		171877DA2AD179E20045E5D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171877D92AD179E20045E5D6 /* ContentView.swift */; };
 		171877DC2AD179E80045E5D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 171877DB2AD179E80045E5D6 /* Assets.xcassets */; };
 		171877DF2AD179E90045E5D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 171877DE2AD179E90045E5D6 /* Preview Assets.xcassets */; };
+		171877E82AD518280045E5D6 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171877E72AD518280045E5D6 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		171877D42AD179E20045E5D6 /* demo_Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo_Practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		171877D72AD179E20045E5D6 /* demo_PracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo_PracticeApp.swift; sourceTree = "<group>"; };
-		171877D92AD179E20045E5D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		171877DB2AD179E80045E5D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		171877DE2AD179E90045E5D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		171877E72AD518280045E5D6 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				171877D72AD179E20045E5D6 /* demo_PracticeApp.swift */,
-				171877D92AD179E20045E5D6 /* ContentView.swift */,
+				171877E72AD518280045E5D6 /* Home.swift */,
 				171877DB2AD179E80045E5D6 /* Assets.xcassets */,
 				171877DD2AD179E90045E5D6 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				171877DA2AD179E20045E5D6 /* ContentView.swift in Sources */,
+				171877E82AD518280045E5D6 /* Home.swift in Sources */,
 				171877D82AD179E20045E5D6 /* demo_PracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
